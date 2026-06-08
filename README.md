@@ -10,3 +10,4 @@ This project demonstrates advanced data restructuring and lookup automation tech
 
 ## 🔍 Formula Preview
 Here is a look at the dynamic formula implementation.
+![Excel INDEX MATCH Formula](Formular-preview.png)
