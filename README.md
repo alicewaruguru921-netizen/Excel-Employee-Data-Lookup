@@ -9,6 +9,4 @@ This project demonstrates advanced data restructuring and lookup automation tech
 * *Cell Referencing:* Used absolute references ($) to lock reference table matrices for seamless formula dragging.
 
 ## 🔍 Formula Preview
-Here is a look at the dynamic formula implementation:
-
-![Excel INDEX MATCH Formula](Screenshot 2026-06-08 134511.png)
+Here is a look at the dynamic formula implementation.
